@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://Ganesh-mBit.io)
+[![MasterHead](https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62609.jpg?t=st=1709563006~exp=1709566606~hmac=0207141434a61761c3eee2371563f6dc4ec16c37bd7e685fe703500834096785&w=850)](https://Ganesh-mBit.io)
 
 <h1 align="center">Hi 👋, I'm Ganesh Mittha</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
